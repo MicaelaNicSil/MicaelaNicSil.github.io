@@ -1,5 +1,5 @@
 //this is only for the title that changes my name
-const words = [ "a Frontend Programmer.", "an 2D Animator.", "a Freelancer."]
+const words = [ "a Frontend Developer.", "a 2D Animator.", "a Freelancer."]
 
 let cursor = gsap.to('.cursor', {opacity:0, ease: "power3.inOut", repeat:-1})
 let masterTl = gsap.timeline({repeat: -1}).pause()
