@@ -804,7 +804,7 @@ footer {
   padding-left: 0;
 }
 
-@media only screen and (min-width: 100px) and (max-width: 402px) {
+@media only screen and (min-width: 100px) and (max-width: 702px) {
   h1 {
     font-size: 8vw !important;
   }
